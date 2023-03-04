@@ -7,5 +7,5 @@ Projects to promote natural life in urban areas and utilize locally-sourced food
 Task designation: 
 Data pre-processing and cleaning: Liam 
 Data visualization: Gretchen 
-Data analysis and statistics: Liam and Gretchen
+Data analysis and statistics: Liam and Gretchen (shared task)
 
